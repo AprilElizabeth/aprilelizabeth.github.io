@@ -16,7 +16,7 @@ plugins:
 # Github pages settings
 lsi: false
 safe: true
-source: aprilelizabeth.github.io
+source: .
 incremental: false
 highlighter: rouge
 gist:
