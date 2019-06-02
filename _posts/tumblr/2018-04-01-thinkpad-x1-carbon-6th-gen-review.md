@@ -12,10 +12,11 @@ tags:
 - pop os
 - ubuntu 18.04
 tumblr_url: https://turtlemadness.net/post/172491079874/thinkpad-x1-carbon-6th-gen-review
+image: ../../../assets/article_images/tumblr/172491079874_0.jpg
 ---
 Before we really get started, I’d like to point out the last two posts were almost exactly the same…so. Good job.
 
-<figure data-orig-width="4048" data-orig-height="3036" class="tmblr-full"><img src="https://66.media.tumblr.com/85e0a238073dfff440568bf41b779cf2/tumblr_inline_p6iqpyB4CG1rkjoge_540.jpg" data-orig-width="4048" data-orig-height="3036"></figure>
+<figure data-orig-width="4048" data-orig-height="3036" class="tmblr-full"><img src="../../../assets/article_images/tumblr/172491079874_0.jpg" data-orig-width="4048" data-orig-height="3036"></figure>
 
 **Initial thoughts and what’s in a name**
 
