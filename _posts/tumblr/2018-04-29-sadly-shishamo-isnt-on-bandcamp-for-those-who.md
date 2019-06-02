@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: SHISHAMO.
 date: '2018-04-29T19:23:29-06:00'
 tags:
 - shishamo
