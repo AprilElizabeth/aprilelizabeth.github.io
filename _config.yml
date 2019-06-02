@@ -1,38 +1,36 @@
-title: turtlemadness
-description: >- 
-  My partner asked me what I wanted this website to be.
-  I told him, sometimes I just like to write things.
-
-baseurl: "" 
-url: "https://turtlemadness.net" 
-github_username:  AprilElizabeth
-
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+gems:
+  - jemoji
+  - jekyll-paginate
 
-# Github pages settings
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# Site settings
+title: "turtlemadness"
+description: > 
+   Sometimes it's just nice to have somewhere to write.
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#blog logo
+logo: "/assets/images/yrstruly.jpg"
+#float_logo: false # true, false (default)
+
+# blog cover
+cover: "/assets/images/asahi_header.jpg"
+
+name: 'April'
+author: 'April'
+author_image: "/assets/images/yrstruly.jpg"
+
+paginate:	5
+
+url: "https://turtlemadness.net" # the base hostname & protocol for your site
+baseurl: ""
+
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	github
+    url:	https://github.com/AprilElizabeth
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:

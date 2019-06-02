@@ -4,17 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Delicious Jekyll.
+Hi, I'm April.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Are you hungry? Get a snack, then hang out and read a while. If there's a song attached to a post, give it a try. You might like it. Or not.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+turtlemadness isn't about anything in particular, but you can probably expect to find the following things here:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Reviews of things, mostly media
+- Japanese media exports, like anime, music, and manga
+- Reflections on how any given day was
+- Thoughts on management, work, and business
+- 少し日本語。多分。
 
+I started turtlemadness back in high school, and it's lived on in one form or another ever since. As the description says, sometimes it's nice to just have somewhere to write.
 
-[jekyll-organization]: https://github.com/jekyll
+MIT-license or not, this spectacular theme provided by Dirk Fabisch. Check out out here:
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
