@@ -1,0 +1,36 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "turtlemadness"
+description: > 
+   Sometimes it's just nice to have somewhere to write.
+
+#blog logo
+logo: "/assets/images/yrstruly.jpg"
+#float_logo: false # true, false (default)
+
+# blog cover
+cover: "/assets/images/asahi_header.jpg"
+
+name: 'April'
+author: 'April'
+author_image: "/assets/images/yrstruly.jpg"
+
+paginate:	5
+
+url: "https://turtlemadness.net" # the base hostname & protocol for your site
+baseurl: ""
+
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	github
+    url:	https://github.com/AprilElizabeth
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
