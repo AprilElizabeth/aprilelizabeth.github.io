@@ -9,8 +9,8 @@ description: >
    Sometimes it's just nice to have somewhere to write.
 
 #blog logo
-logo: "/assets/images/yrstruly.jpg"
-#float_logo: false # true, false (default)
+logo: "/assets/images/bikegirl.jpg"
+float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/mountaintop_header.jpg"
