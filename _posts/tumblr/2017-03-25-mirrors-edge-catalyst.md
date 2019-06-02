@@ -8,10 +8,11 @@ tags:
 - faith connors
 - review
 tumblr_url: https://turtlemadness.net/post/158823115844/mirrors-edge-catalyst
+image: ../../../assets/article_images/tumblr/158823115844_0.jpg
 ---
  **aka: I died a lot**
 
-<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1920"><img src="https://66.media.tumblr.com/64ea94bac0b57d8ebcb592568f93106a/tumblr_inline_one12gdPFx1rkjoge_540.jpg" data-orig-height="1080" data-orig-width="1920"></figure>
+<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1920"><img src="../../../assets/article_images/tumblr/158823115844_0.jpg" data-orig-height="1080" data-orig-width="1920"></figure>
 
 (I grabbed this image from Gamespot until I get my own)
 

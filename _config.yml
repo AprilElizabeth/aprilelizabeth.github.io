@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "turtlemadness"
+title: "turtle madness dot net"
 description: > 
    Sometimes it's just nice to have somewhere to write.
 
@@ -13,7 +13,7 @@ logo: "/assets/images/yrstruly.jpg"
 #float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/asahi_header.jpg"
+cover: "/assets/images/mountaintop_header.jpg"
 
 name: 'April'
 author: 'April'
