@@ -25,6 +25,7 @@ url: "https://turtlemadness.net" # the base hostname & protocol for your site
 baseurl: ""
 
 #disqus: disqus-shortname
+google_analytics: UA-142144768-1
 
 # social icons and sharing options
 social:
