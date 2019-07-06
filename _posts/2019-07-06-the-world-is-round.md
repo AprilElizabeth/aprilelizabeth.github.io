@@ -42,3 +42,5 @@ World Cup is wrapping up, I'm considering if I want to watch the final at a bar 
 Arakawa Naoshi of _Your Lie in April_ fame started a new [girl's soccer manga](https://myanimelist.net/manga/98179/Sayonara_Watashi_no_Cramer) back in 2016. I picked it up last winter since it's being simulpub'd in the Crunchyroll Manga app, and it just clicked. I was pretty content to just read the manga, at least until the World Cup kicked off last month. Between the manga, NWSL games, and the Cup*, I've had to add a soccer ball to my Target shopping list. Y'know, just to kick around the park when I go on walks. It's fun to try new things, or to pick up things you've left behind. I still dream of buying a clarinet, but slightly noisier activities require consideration when one co-habitates.
 
 No doubt, summer is my time to get out there and enjoy this short, silly, and sweet life. I hope you get to do the same!
+
+*_Yes I am aware of CONCACAF and the Gold Cup but COME ON there is only one important cup right now._
