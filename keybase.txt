@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spinachbaby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://turtlemadness.net
+  * I am spinachbaby (https://keybase.io/spinachbaby) on keybase.
+  * I have a public key ASCo1-AA-86QvsbpYE8dkGN5OV-3rWrav29lqBUkTliQsAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091b55b1e95d0a405383740467860a5599a49a8053e78ce6c88c4ae2b91b21af70a",
+      "host": "keybase.io",
+      "kid": "0120a8d7e000fbce90bec6e9604f1d906379395fb7ad6adabf6f65a815244e5890b00a",
+      "uid": "6d723bf4c32a3bb9d4cd4e95929bc719",
+      "username": "spinachbaby"
+    },
+    "merkle_root": {
+      "ctime": 1566845415,
+      "hash": "919b9488aa0619995a3226d400c5ac9eea931f34bddb7e9b98f8b0f9c63496a14a051f49d58e227ab732b96719a4259b5d1f7538549ca39a5d93e96453942399",
+      "hash_meta": "9dffbbc23034fdd6b4ec77c6187ce33c4f80f3eb2f6d2559e1784c38b8cae46f",
+      "seqno": 6103954
+    },
+    "service": {
+      "entropy": "igP570lPqdbiGxSJUPQpqZmZ",
+      "hostname": "turtlemadness.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566845429,
+  "expire_in": 504576000,
+  "prev": "20b56ee671d20d15a3e16c1ca7a490d3052d0539a50c5b708e1a8d01d4f8ca79",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqNfgAPvOkL7G6WBPHZBjeTlft61q2r9vZagVJE5YkLAKp3BheWxvYWTESpcCJcQgILVu5nHSDRWj4Wwcp6SQ0wUtBTmlDFtwjhqNAdT4ynnEIB5UT8XjF8EAQCf9LoGNOn0hEqwakDD9h9U3DVfDHkGjAgHCo3NpZ8RAZWLZR8fwBbWfKGRND0Im/UMazJkPjiFs8chIsN9YgaCeXfwopBK1OssGe5+LjTlQcrDMjIfVpmlASnln2c9SDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKuEji2PqD7QlJ64AiW+RzWTm502SrAzrYnMmraT0Y/1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spinachbaby
+
+==================================================================
