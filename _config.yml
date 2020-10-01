@@ -9,11 +9,11 @@ description: >
    Internet words.
 
 #blog logo
-logo: "/assets/images/bikegirl.jpg"
+logo: "/assets/images/hikegirl.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/mountaintop_header.jpg"
+cover: "/assets/images/chief_header.jpg"
 
 name: 'April'
 author: 'April'
