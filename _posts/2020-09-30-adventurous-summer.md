@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adventurous summer
+date: '2020-09-30T21:00:00-06:00'
 image: {{site.url}}/assets/post/2020-09-30-adventurous-summer/lostcreek.jpg
 ---
 
