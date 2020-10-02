@@ -118,7 +118,7 @@ Technically I picked 3; the header image is from Lost Creek as well. Excited to 
 
 ## Roxborough
 
-I bought a CPW parks pass. I could finally check out Roxborough, a hiker-only state park a mere 30 minutes from the house and a few miles from Indian CreeRitzk. The foothills of Denver are way different than Fort Collins, but the hogbacks stretch the entire length of the Rockies - so that's pretty cool. A real gem of a park, no dog poop, no bikers, and not even a lot of foot traffic! I've done Roxborough twice this season, once when it had snowed (in September, Colorado lol) and another time when it rained on my descent.
+I bought a CPW parks pass. I could finally check out Roxborough, a hiker-only state park a mere 30 minutes from the house and a few miles from Indian Creek. The foothills of Denver are way different than Fort Collins, but the hogbacks stretch the entire length of the Rockies - so that's pretty cool. A real gem of a park, no dog poop, no bikers, and not even a lot of foot traffic! I've done Roxborough twice this season, once when it had snowed (in September, Colorado lol) and another time when it rained on my descent.
 
 ![More red rocks]({{site.url}}/assets/post/2020-09-30-adventurous-summer/rox.jpg)
 
@@ -148,4 +148,4 @@ I'll keep hiking into the winter, fall, and spring. So long as there isn't too m
 
 ![I really like my tent.]({{site.url}}/assets/post/2020-09-30-adventurous-summer/happytent.jpg)
 
-Don't sleep on going outside!
+Don't sleep on sleeping outside!
