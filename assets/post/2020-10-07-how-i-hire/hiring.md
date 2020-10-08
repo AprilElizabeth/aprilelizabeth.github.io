@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Hiring & interviewing in the SRE organization
 
 This document outlines how we approach hiring and interviewing for the SRE organization. It's intended as guidelines for interviewees and interviewers, but does not supersede any processes or requirements set forth by the HR organization, nor does it make any promises or conditions of hiring upon completion of the interview process.
@@ -20,6 +24,8 @@ Official HR-administered document outlining:
 Job descriptions are the building block for every role; a job listing MUST include the primary duties & minimum required experience listed. Updates to job descriptions should be taken up with HR.
 
 ## Job Listings
+
+TODO
 
 # Interview process
 
