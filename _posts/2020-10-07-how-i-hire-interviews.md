@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I hire - Interviews
-image: ../../../assets/post/2020-10-07-how-i-hire/walkway.jpg
+image: ../../../assets/post/2020-10-07-how-i-hire-interviews/walkway.jpg
 ---
 
 Part 2 of a 2-part post on what I've learned as a hiring manager. It's worth spending time on your process.
@@ -40,7 +40,7 @@ I dedicated a section to this in Part 1, but I want to hammer it in. As a quick 
 - Your company (for auditing, compliance, and cross-team collaboration)
 - Your candidate (as to set expectations from the outset)
 
-Feel free to use [my hiring documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire/hiring.html) as a starting point!
+Feel free to use [my hiring documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire-interviews/hiring.html) as a starting point!
 
 ## Pre-screening
 
@@ -95,7 +95,7 @@ I generally avoid asking about job history, as their resume usually speaks to th
 
 ### After the 1:1
 
-By the time I'm finishing up the call, I have a pretty good idea if I'm going to advance someone or not. Unless they totally bomb out of the call, I'll send them the full [hiring process documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire/hiring.html) and my pre-technical questionnaire at this time. After the candidate completes the questionnaire, I'll submit all this information to my team, along with my notes.
+By the time I'm finishing up the call, I have a pretty good idea if I'm going to advance someone or not. Unless they totally bomb out of the call, I'll send them the full [hiring process documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire-interviews/hiring.html) and my pre-technical questionnaire at this time. After the candidate completes the questionnaire, I'll submit all this information to my team, along with my notes.
 
 I've had interviews where I really enjoyed talking with a candidate, but their written responses showed they weren't qualified for the position. That's fine! Let them know and move on. The reverse of this is also true; it's possible a candidate provides exactly what you're looking for in the written responses but doesn't interview as well. That's worth considering if your team communicates mostly through written form.
 
@@ -154,7 +154,7 @@ One more thing - you won't get instant feedback on your decision. It'll be six m
 
 Rejection sucks. It sucks to be rejected, and it sucks to turn someone down. The good news is, you can make it suck _less!_ Perhaps you've been rejected for a position that you liked. Your resume was perfect, your cover letter brilliant, and you crushed the interview, only to be rejected with "No thanks" or some seemingly arbitrary reason. It leaves you wanting, wondering what exactly they didn't like, or what you could improve upon. Some companies ([like GitLab](https://about.gitlab.com/handbook/hiring/interviewing/)) have taken to providing more directed feedback to help a candidate improve. I've taken to doing the same.
 
-As a manager, you are tasked with providing your professional opinion of the performance of the people you manage. Though a rejected candidate isn't someone you manage, you did ask them to spend time with you and you did evaluate their performance throughout the process. It's my professional opinion that the least you can do is provide detailed feedback on their application. The way I handle it is like this:
+As a manager, you are tasked with providing your professional opinion on the performance of the people you manage. Though a rejected candidate isn't someone you manage, you did ask them to spend time with you and you did evaluate their performance throughout the process. It's my professional opinion that the least you can do is provide detailed feedback on their application. The way I handle it is like this:
 
 - Contact the candidate through whatever means you used to schedule interviews. For me, this is always a direct email. Consider a neutral subject, like "Update from [company] on [position]."
 - Express your thanks for their time, and let them know they weren't selected for the position.
@@ -163,8 +163,37 @@ As a manager, you are tasked with providing your professional opinion of the per
 
 Don't worry about coming off all "who the heck is this person, evaluating me when they didn't even hire me!" to your candidate. You're operating in a professional capacity here, you have their best interests in mind, and you want them to succeed. In every case where I offered feedback, the candidate was interested to hear it. In one case, I rejected two candidates not because they were unqualified, but because the team & company weren't in the right place to take on a mentorship role. Reasons for rejections will vary, but if you're rejecting qualified candidates, the reasoning should be sound and obvious - to _you_ anyway. Why not make it obvious to your candidate as well? In some cases, you should suggest they apply again or ask if you can reach out in the future should things change. You've already gone through the work and they made it to the end, right?
 
-The opposite of all this is just as true. You don't owe it to anyone (except maybe HR) to share your reasoning, so if a candidate is being rejected because they (heaven forbid) said something rude to the custodial staff, feel free to write them off completely!
+There's no requirement for sharing feedback, if it doesn't feel comfortable or doesn't seem right, don't force it. I think it's almost always worth offering, though.
+
+One last thing before we move on to welcoming your new hire - you might wait for your candidate to accept your job offer before sending out rejection notices. Approaches vary, but above all else make sure to communicate with your candidates and don't keep them waiting. It usually takes time for someone to decide on a job offer, and I don't personally have an issue with reaching out to a secondary candidate if our first offer falls through. Some managers are more comfortable with restarting the search, with the thinking that if you didn't make an offer to the other candidates, they weren't the right hire.
 
 ## Welcoming your new hire
 
+Sending out job offers is right up there with handing out raises or seeing employees advance. It's a happy moment, and should be treated as such! Outside of the official job offer, I like to send a congratulatory email right away, again making myself available for questions. I'll usually send a follow-up "welcome" message a few days later, which contains things like:
+
+- Confirmation of their start day. Best to make sure everyone is on the same page here!
+- A heads-up on any official HR communications, and when they might arrive (if you know.)
+- An agenda for the team, to set the stage for their new working week. For example, our first meeting starts at 10:00 every day, which hopefully provides the new hire with enough time to update their schedule.
+- Any tools you use for communication or things you recommend. This is a great time to ask if they have a webcam/headset, if your company supplies or reimburses for them.
+- Ask about any other hardware/environment. Chances are, you'll have to provision or arrange for new hardware. Ask what they want!
+
+Once we get closer to their first day (usually the business day prior to their start date) I'll print out (or send along) a first day agenda and some welcome documentation. I came across [a tweet](https://twitter.com/rothgar/status/1296911972215058432?lang=en) by @rothgar about what he wishes for when being onboarded remotely. Even for an in-office employee, this is a great list. The welcome email will contain things like account access and expectations within the first month or two.
+
+This might all seem like a lot of communication, but that weird liminal space between jobs can feel kind of scary. I think it's better to reach out regularly to help keep your new hire excited and engaged, and to show how you communicate as their new manager. Why not start building rapport with your new hire right away?
+
 ## Summary
+
+If there's just one thing I hope you take away from this, it's that hiring is never about just filling an open position. Along with thoughtful planning, a well-executed interview process can help you find the people you want as your team grows and changes.
+
+- [Plan it all out first!]({{site.url}}/2020-10-02/how-i-hire.html) Check out Part 1 for more information on how I plan for hiring.
+- Understand that hiring isn't an exact science. Do your best to represent your team, company, and open position, and recognize that mistakes are certainly possible.
+- Act decisively. Don't fence-sit or dwell on whether or not to advance or hire someone. After each stage, ask yourself - hire or no hire?
+- Who makes up your interview team is more important than how many people or interviews you schedule. Get a mix of people, from team members to colleagues to office-mates.
+- Always get a second opinion from a trusted source.
+- Make your decision, send an offer, & provide feedback to candidates you've turned down if they'd find it useful.
+- Help get your new hire excited to join the team!
+
+## What do you think?
+
+Thanks for reading! Whether you're a new manager or headed for the C-suite, I hope you found this informative. Along with buying breakfast burritos and cracking wise during all-hands meetings, hiring is one of the most important things you do as a manager. It's probably a misnomer to say this is "my" process as it's woven from so many threads provided by others. Would you like to add yours? Leave a comment or send me a message on [Linkedin.](https://www.linkedin.com/in/april-jones-b2414b142/)
+
