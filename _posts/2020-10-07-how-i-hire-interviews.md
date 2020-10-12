@@ -8,11 +8,11 @@ Part 2 of a 2-part post on what I've learned as a hiring manager. It's worth spe
 
 # Part 2: Interviews
 
-Near as I can tell, interviews are mandatory. Even the most highly recommended candidate or previous employee must be interviewed in the same manner as every other candidate. In truth, I used to dread interviewing - both as a manager and a candidate. I struggled to answer trivia questions, I failed to make a connection, I forgot that the real interview is really the first 90 to 180 days. As good as we like to think we are at hiring, there's just no way you can get a good feel for how someone operates day-to-day in just a few hours. So then, why bother interviewing at all? What can you accomplish and how can you, the manager, accurately evaluate someone for an open position in that time?
+Near as I can tell, interviews are mandatory. Even the most highly recommended candidate or previous employee must be interviewed in the same manner as every other candidate. In truth, I used to dread interviewing - both as a manager and a candidate. I struggled to answer trivia questions, I failed to make a connection, I forgot that the real interview is the first 90 to 180 days. As good as we like to think we are at hiring, there's just no way you can get a good feel for how someone operates day-to-day in just a few hours. So then, why bother interviewing at all? What can you accomplish and how can you, the manager, accurately evaluate someone for an open position in that time?
 
 *Spoiler alert: you can't.*
 
-Still, that's okay. Interviews aren't about you. They're about your team and your candidate. No two candidates are alike, and not everyone interviews well. Imagine you had a solid recommendation from someone you trust, but they struggle with your interview process. Would you question the recommendation, the process, or the candidate? Perhaps it's any of the three, but the only part you can control is the process. I think the best you can do is represent your team and your company in the most honest & straightforward way possible. Just like [writing a job listing,]({{site.url}}/2020-10-02/how-i-hire.html#write-a-job-listing) the best candidates will respond to a thoughtful interview process.
+Still, that's okay. Interviews aren't about you. They're about your team and your candidate. No two candidates are alike, and not everyone interviews well. Imagine you had a solid recommendation from someone you trust, but they struggle with your interview process. Would you question the recommendation, the process, or the candidate? Perhaps it's any of the three, but the only part you can control is the process. I think the best you can do is represent your team and your company in the most honest & straightforward way possible. Just like [writing a job listing,]({{site.url}}/2020/10/02/how-i-hire.html#write-a-job-listing) the best candidates will respond to a thoughtful interview process.
 
 Even with a well-planned process & good execution, hiring doesn't always go right. You might make the wrong hire, or let the perfect employee slip past. Mistakes are inevitable learning opportunities you can use to improve your process and as a reminder that evaluation doesn't stop once the offer letter is signed.
 
@@ -28,7 +28,7 @@ Candidates I don't feel are a good fit will usually not receive a reply, which i
 
 Unless your organization requires all communication to happen through the recruiter or hiring platform, I suggest reaching out directly via email, call, or even chat. Anything official should happen through official channels - job offers must always be in writing using your organization's required format, for instance. Things like scheduling, follow-ups, and questions are usually fine to handle through other methods, and provide a more comfortable and personal experience. Don't be afraid to answer questions openly and honestly outside of interviews. It can be hard to come up with questions on the spot, so take the time to respond completely, or offer time to chat outside of regular interviews. Goodness knows, I don't always have a good answer right away. I've found that if you come up with a better answer later and can't shake that feeling, it's best to just reach out and correct yourself. Your candidates will appreciate the transparency!
 
-In all cases, I strongly recommend being open and honest with your candidate. For example, my organization recently decided to outsource our entire engineering division. This was a huge portion of the people we (in reliability engineering & operations) worked with on a daily basis, which significantly changed our mission & outlook. This also happened right as we were starting to interview for an open position. Events like this are important to share with your candidate! Unless it's trade secrets or something you can't disclose for legal reasons, be as open, honest, and transparent as possible throughout the entire process. Like I've said, you aren't just filling a position - you're building your team.
+In all cases, I strongly recommend being open and honest with your candidate. In one example, my organization decided to outsource the entire engineering division. This was a huge portion of the people we (in reliability engineering & operations) worked with on a daily basis, which significantly changed our mission & outlook. This also happened right as we were starting to interview for an open position. Events like this are important to share with your candidate! Unless it's trade secrets or something you can't disclose for legal reasons, be as open, honest, and transparent as possible throughout the entire process. Like I've said, you aren't just filling a position - you're building your team.
 
 Always be professional and consistent in your communications. Let people know _what_ they can expect, _when_ they can expect to hear from you, and provide some kind of deadline for when they should reach out to you if they don't hear back. Being busy isn't an excuse to waste someone's time!
 
@@ -63,7 +63,7 @@ Other than the recruiter call, I'm not subject to any other employer-required in
 
 By nature, interviewing is a highly selective process. Even if you're lucky(?) enough to be hiring more than one candidate, you'll have to decide who advances and who doesn't. This is one of those management things which doesn't get easier over time, though your intuition will improve with each interview. Every situation will be different, and this is absolutely a skill you'll have to develop. I'll offer what advice I can.
 
-- Don't be a fence-sitter. If you're heming and hawing between advance or don't, you probably shouldn't advance the candidate. _You will make mistakes._ You'll miss out on good candidates, but don't worry - if they're good, they'll find a position. Being decisive is what's best for everyone. It allows you and your candidate to move on with obvious focus.
+- Don't be a fence-sitter. If you're hemming and hawing between advance or don't, you probably shouldn't advance the candidate. _You will make mistakes._ You'll miss out on good candidates, but don't worry - if they're good, they'll find a position. Being decisive is what's best for everyone. It allows you and your candidate to move on with obvious focus.
 - Don't dwell. This goes hand-in-hand with fence-sitting. It's rather unfair to leave a _pretty good_ candidate on the hook because you want to see who else comes along. Advance them, or don't.
 - Consult with your interview team. If you've advanced a candidate through the initial screening, ask your team to evaluate the information you've gathered so far. If they reject a candidate you liked, consider whether it makes sense to advance. You'll have to use good judgement here; rejections from your team prior to meeting the candidate shouldn't happen for frivolous reasons, and you're well within your right as hiring manager to advance a candidate regardless. As always, make your reasoning known when you exercise that right.
 - Communicate often! Provide regular updates (once or twice a week) to your candidate.
@@ -73,11 +73,11 @@ Maybe you see a pattern in my advice...that's because interviewing is time-consu
 
 # The 3 interviews I use, and why
 
-I explained these a little bit in [Part 1,]({{site.url}}/2020-10-02/how-i-hire.html) but only a smidge. Using 3 interviews and a team of about 5 people (including myself) feels Goldilocks to me. _Who_ makes up your interview team is more important than _how many_ interviews, though I think it's important to space interviews out a little bit. Some considerations on who to include in your interview team:
+I explained these a little bit in [Part 1,]({{site.url}}/2020/10/02/how-i-hire.html) but only a smidge. Using 3 interviews and a team of about 5 people (including myself) feels Goldilocks to me. _Who_ makes up your interview team is more important than _how many_ interviews, though I think it's important to space interviews out a little bit. Some considerations on who to include in your interview team:
 
 - Direct co-workers. The people who will be responsible for training your new hire, answering their questions, and working with them day-to-day.
 - Indirect co-workers. People your new hire might work with on a semi-regular basis when cross-team collaboration is necessary.
-- Completely unrelated co-workers. People your new hire might see at the water cooler. These folks can be great for values & non-technical interviews.
+- Office mates. People your new hire might see at the water cooler, but are unlikely to work with directly. These folks can be great for values & non-technical interviews.
 - Other hiring managers. I love when other managers interview my candidates, and I love when I get the chance to do the same. Managers have a different perspective on candidates & team dynamics, as we're usually "outsiders" on the team.
 
 Don't forget to take notes! It doesn't matter if you write 'em down or type 'em up, but keep them someplace safe. In some cases, your employer might require you to submit any notes you take to the People department, but more often they'll just ask you to hang on to your notes.
@@ -95,7 +95,7 @@ I generally avoid asking about job history, as their resume usually speaks to th
 
 ### After the 1:1
 
-By the time I'm finishing up the call, I have a pretty good idea if I'm going to advance someone or not. Unless they totally bomb out of the call, I'll send them the full [hiring process documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire-interviews/hiring.html) and my pre-technical questionnaire at this time. After the candidate completes the questionnaire, I'll submit all this information to my team, along with my notes.
+By the time I'm finishing up the call, I have a pretty good idea if I'm going to advance someone or not. Unless they totally bomb out of the call, I'll send them the full [hiring process documentation]({{site.url}}/assets/post/2020-10-07-how-i-hire-interviews/hiring.html) and my pre-technical questionnaire at this time. After the candidate completes the questionnaire, I'll submit all this information to my team, along with my notes. I'll ask the team to evaluate the responses and any application materials to help inform my decision to advance, or not.
 
 I've had interviews where I really enjoyed talking with a candidate, but their written responses showed they weren't qualified for the position. That's fine! Let them know and move on. The reverse of this is also true; it's possible a candidate provides exactly what you're looking for in the written responses but doesn't interview as well. That's worth considering if your team communicates mostly through written form.
 
@@ -107,11 +107,11 @@ Other examples I've seen (usually for software engineering roles) will have a ca
 
 If your team is new to interviewing or are trying out a new process, consider enlisting a colleague to sit in as a mock candidate for evaluation purposes. Pick someone to act as the interview lead, and resist the urge to jump in at any silence. Ask the team what they might change for an actual interview, and have your mock candidate provide feedback on what they liked or disliked about the process. You aren't going for the perfect process, but for engagement and partcipation from your candidate and everyone on the team. Don't let your interview leader dominate the discussion; make sure everyone asks questions and gets involved.
 
-When scheduling your team interview, send out an agenda & roster ahead of time. Even if your candidate doesn't go stalking them on Linkedin or whatver, it's a nice way to see who they'll be talking with and what role they have in relation to the hiring position. In short, it allows candidates to be their most prepared.
+When scheduling your team interview, include an agenda & roster. Even if your candidate doesn't go stalking them on Linkedin or whatver, it's a nice way to see who they'll be talking with and what role they have in relation to the open position. In short, it allows candidates to be their most prepared.
 
-When it's time to team interview your candidate for-realsies, focus first on comfort! Ask about their day, introduce everyone, ask them to introduce themselves. Sitting in a room (or video call) with a bunch of strangers can be intimidating, so do your best to break down that barrier. If you're using a 1:1 interview style, you (the hiring manager) should be the first and last person they talk with as a reference point and for checking in. These don't have to be long, because you're just facilitating.
+When it's time to team interview your candidate for-realsies, focus first on comfort! Ask about their day, introduce everyone, ask them to introduce themselves. Sitting in a room (or video call) with a bunch of strangers can be intimidating, so do your best to break down that barrier. If you're using a 1:1 interview style, you (the hiring manager) should be the first and last person they talk with as a reference point and for checking in. These don't have to be long as you're just facilitating.
 
-If you are interviewing in a group setting, take a back-seat and facilitate as you would with almost any other meeting. Be mindful of the time, make sure the candidate has time to ask questions, and put a hard stop on a technical activity if one exists. Don't hesitate to call on people to ask questions, and teach them how to ask follow-up questions if the conversation is starting to lag. If there's too much silence, ask your candidate about something they enjoy, or point to an accomplishment on their resume and ask for more details. Everyone is passionate about _something,_ try and find out what it is!
+If you are interviewing in a group setting, take a back seat and facilitate as you would with almost any other meeting. Be mindful of the time, make sure the candidate has time to ask questions, and put a hard stop on a technical activity if one exists. Don't hesitate to call on people to ask questions, and teach them how to ask follow-up questions in case the conversation starts to lag. If there's too much silence, ask your candidate about something they enjoy, or point to an accomplishment on their resume and ask for more details. Everyone is passionate about _something,_ try and find out what it is!
 
 ### After the interview
 
@@ -163,9 +163,9 @@ As a manager, you are tasked with providing your professional opinion on the per
 
 Don't worry about coming off all "who the heck is this person, evaluating me when they didn't even hire me!" to your candidate. You're operating in a professional capacity here, you have their best interests in mind, and you want them to succeed. In every case where I offered feedback, the candidate was interested to hear it. In one case, I rejected two candidates not because they were unqualified, but because the team & company weren't in the right place to take on a mentorship role. Reasons for rejections will vary, but if you're rejecting qualified candidates, the reasoning should be sound and obvious - to _you_ anyway. Why not make it obvious to your candidate as well? In some cases, you should suggest they apply again or ask if you can reach out in the future should things change. You've already gone through the work and they made it to the end, right?
 
-There's no requirement for sharing feedback, if it doesn't feel comfortable or doesn't seem right, don't force it. I think it's almost always worth offering, though.
+There's no requirement for sharing feedback. If it doesn't feel comfortable or doesn't seem right, don't force it. I think it's almost always worth offering, though.
 
-One last thing before we move on to welcoming your new hire - you might wait for your candidate to accept your job offer before sending out rejection notices. Approaches vary, but above all else make sure to communicate with your candidates and don't keep them waiting. It usually takes time for someone to decide on a job offer, and I don't personally have an issue with reaching out to a secondary candidate if our first offer falls through. Some managers are more comfortable with restarting the search, with the thinking that if you didn't make an offer to the other candidates, they weren't the right hire.
+One last thing before we move on to welcoming your new hire - you might wait for your candidate to accept your job offer before sending out rejection notices. Approaches vary, but above all else make sure to communicate with your candidates and don't keep them waiting. It usually takes time for someone to decide on a job offer, and I don't personally have an issue with reaching out to a secondary candidate if our first offer falls through. Some managers are more comfortable with restarting the search, with the thinking that if you didn't make an offer to the other candidates, they wouldn't be the right hire.
 
 ## Welcoming your new hire
 
@@ -173,7 +173,7 @@ Sending out job offers is right up there with handing out raises or seeing emplo
 
 - Confirmation of their start day. Best to make sure everyone is on the same page here!
 - A heads-up on any official HR communications, and when they might arrive (if you know.)
-- An agenda for the team, to set the stage for their new working week. For example, our first meeting starts at 10:00 every day, which hopefully provides the new hire with enough time to update their schedule.
+- An agenda for the team, to set the stage for their new working week. For example, our first meeting starts at 10:00 every day. Sending this out a few weeks in advance hopefully provides the new hire with enough time to update their schedule.
 - Any tools you use for communication or things you recommend. This is a great time to ask if they have a webcam/headset, if your company supplies or reimburses for them.
 - Ask about any other hardware/environment. Chances are, you'll have to provision or arrange for new hardware. Ask what they want!
 
@@ -183,14 +183,14 @@ This might all seem like a lot of communication, but that weird liminal space be
 
 ## Summary
 
-If there's just one thing I hope you take away from this, it's that hiring is never about just filling an open position. Along with thoughtful planning, a well-executed interview process can help you find the people you want as your team grows and changes.
+If there's just one thing I hope you take away from this, it's that hiring is never just filling an open position. Along with thoughtful planning, a well-executed interview process can help you find the people you want as your team grows and changes.
 
-- [Plan it all out first!]({{site.url}}/2020-10-02/how-i-hire.html) Check out Part 1 for more information on how I plan for hiring.
+- [Plan it all out first!]({{site.url}}/2020/10/02/how-i-hire.html) Check out Part 1 for more information on how I plan for hiring.
 - Understand that hiring isn't an exact science. Do your best to represent your team, company, and open position, and recognize that mistakes are certainly possible.
 - Act decisively. Don't fence-sit or dwell on whether or not to advance or hire someone. After each stage, ask yourself - hire or no hire?
 - Who makes up your interview team is more important than how many people or interviews you schedule. Get a mix of people, from team members to colleagues to office-mates.
 - Always get a second opinion from a trusted source.
-- Make your decision, send an offer, & provide feedback to candidates you've turned down if they'd find it useful.
+- Make your decision, send an offer, & provide feedback to candidates you've turned down (but only if they'd find it useful.)
 - Help get your new hire excited to join the team!
 
 ## What do you think?
