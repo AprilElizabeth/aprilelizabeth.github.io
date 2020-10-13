@@ -7,7 +7,6 @@ tags:
 - mirrors edge
 - faith connors
 - review
-tumblr_url: https://turtlemadness.net/post/158823115844/mirrors-edge-catalyst
 image: ../../../assets/article_images/tumblr/158823115844_0.jpg
 ---
  **aka: I died a lot**

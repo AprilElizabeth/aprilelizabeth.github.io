@@ -11,7 +11,6 @@ tags:
 - debian testing
 - pop os
 - ubuntu 18.04
-tumblr_url: https://turtlemadness.net/post/172491079874/thinkpad-x1-carbon-6th-gen-review
 image: ../../../assets/article_images/tumblr/172491079874_0.jpg
 ---
 Before we really get started, I’d like to point out the last two posts were almost exactly the same…so. Good job.

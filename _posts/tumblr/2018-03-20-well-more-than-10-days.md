@@ -2,8 +2,6 @@
 layout: post
 title: well more than 10 days
 date: '2018-03-20T20:37:28-06:00'
-tags: []
-tumblr_url: https://turtlemadness.net/post/172087959604/well-more-than-10-days
 ---
 Certainly it’s been a good while, right? Someone asked me what&nbsp;‘turtle madness’ is. Valid question.
 

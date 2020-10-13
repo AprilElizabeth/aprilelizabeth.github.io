@@ -3,7 +3,6 @@ layout: post
 title: Lovesick (w/ maisou)
 date: '2018-03-24T21:17:59-06:00'
 tags: []
-tumblr_url: https://turtlemadness.net/post/172223997454/its-jam-time-ive-been-listening-to-this-pretty
 ---
 <iframe class="bandcamp_audio_player" width="100%" height="120" src="https://bandcamp.com/EmbeddedPlayer/size=medium/bgcol=ffffff/linkcol=0687f5/notracklist=true/transparent=true/track=387660308/" allowtransparency="true" frameborder="0"></iframe>  
 

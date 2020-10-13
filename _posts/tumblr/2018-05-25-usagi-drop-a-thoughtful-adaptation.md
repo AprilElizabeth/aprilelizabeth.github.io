@@ -10,7 +10,6 @@ tags:
 - crunchyroll
 - rin
 - daikichi
-tumblr_url: https://turtlemadness.net/post/174248749159/usagi-drop-a-thoughtful-adaptation
 ---
  **Spoiler warning:** This is a focus on the anime adaptation of _Usagi Drop_, and definitely contains spoilers for both the manga and anime. I assume you’re familiar with the overall story and characters. If not, give the anime a try and find out why I think you can enjoy it as its own complete work!
 

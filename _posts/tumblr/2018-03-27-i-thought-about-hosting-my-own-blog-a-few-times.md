@@ -2,8 +2,6 @@
 layout: post
 title: Highlight
 date: '2018-03-27T21:39:22-06:00'
-tags: []
-tumblr_url: https://turtlemadness.net/post/172331327239/i-thought-about-hosting-my-own-blog-a-few-times
 ---
 <iframe class="bandcamp_audio_player" width="100%" height="120" src="https://bandcamp.com/EmbeddedPlayer/size=medium/bgcol=ffffff/linkcol=0687f5/notracklist=true/transparent=true/track=1345987665/" allowtransparency="true" frameborder="0"></iframe>  
 

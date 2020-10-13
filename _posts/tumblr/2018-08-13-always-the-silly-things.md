@@ -2,8 +2,6 @@
 layout: post
 title: Always the silly things
 date: '2018-08-13T22:30:42-06:00'
-tags: []
-tumblr_url: https://turtlemadness.net/post/176975932944/always-the-silly-things
 ---
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2162971757/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/track=3055235405/transparent=true/" seamless><a href="http://iamyunomi.bandcamp.com/album/ep-original-mix">大江戸コントローラー - EP (Original Mix) by Yunomi</a></iframe>
 

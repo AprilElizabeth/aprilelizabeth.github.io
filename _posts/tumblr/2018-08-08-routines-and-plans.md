@@ -6,7 +6,6 @@ tags:
 - shishamo
 - routines
 - morning person
-tumblr_url: https://turtlemadness.net/post/176794973944/routines-and-plans
 ---
 Ha ha ha, you know how people get all excited to write, and then they do, and then they stop because of Reasons? No? Oh. Well. That’s what usually happens.
 
