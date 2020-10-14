@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adventurous summer
-image: https://turtlemadness.net/assets/post/2020-09-30-adventurous-summer/lostcreek.jpg
+image: ../../../assets/post/2020-09-30-adventurous-summer/lostcreek.jpg
 ---
 
 Hundreds of miles, thousands of vertical feet.
@@ -32,7 +32,7 @@ A short and sweet (and fairly vertical) hike just outside of Mt Evans, offering 
 
 ## Highline Canal big bike ride
 
-[Remember last summer](https://turtlemadness.net/2019/07/06/the-world-is-round.html) when I did a big bike ride around Chatfield? _I fucking did it again,_ but this time tacked on some extra miles by riding some singletrack in Hildebrand Ranch Park. On a touring bike. It was a stupid idea, but also a good way to find just what the limits are. Still, it was basically the same route and on the same day as the previous year.
+[Remember last summer]({{site.url}}/2019/07/06/the-world-is-round.html) when I did a big bike ride around Chatfield? _I fucking did it again,_ but this time tacked on some extra miles by riding some singletrack in Hildebrand Ranch Park. On a touring bike. It was a stupid idea, but also a good way to find just what the limits are. Still, it was basically the same route and on the same day as the previous year.
 
 ![Very familiar.]({{site.url}}/assets/post/2020-09-30-adventurous-summer/bikeloop.jpg)
 

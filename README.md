@@ -1,9 +1,6 @@
-turtlemadness.net
+aprilelizabeth.net
 =================
 
-turtlemadness is a blog, that I have written.
+This is a blog, that I write.
 
 It uses a theme by Dirk Fabisch called [Mediator](https://github.com/dirkfabisch/mediator).
-
-## TODO: ##
-- Fix tagging, if I'd like to use it.

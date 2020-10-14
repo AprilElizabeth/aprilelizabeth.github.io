@@ -10,7 +10,6 @@ tags:
 - lightdm
 - system76
 - thinkpad
-tumblr_url: https://turtlemadness.net/post/173404567199/x1c6-updates-thoughts-on-system76
 ---
 <iframe style="border: 0; width: 500px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=37706855/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/track=1727201182/transparent=true/" seamless=""><a href="http://iamyunomi.bandcamp.com/album/--2">ゆのもきゅ by Yunomi &amp; nicamoq</a></iframe>
 
