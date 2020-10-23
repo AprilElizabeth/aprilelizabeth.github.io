@@ -12,26 +12,24 @@ description: >
 logo: "/assets/images/hikegirl.jpg"
 float_logo: true # true, false (default)
 
-# blog cover
 cover: "/assets/images/chief_header.jpg"
 
 name: 'April'
 author: 'April'
-author_image: "/assets/images/yrstruly.jpg"
+author_image: "/assets/images/hikegirl.jpg"
 
-paginate:	5
+paginate:	7
 
-url: "https://aprilelizabeth.net" # the base hostname & protocol for your site
+url: "https://aprilelizabeth.net"
 baseurl: ""
 
-#disqus: disqus-shortname
 google_analytics: UA-142144768-1
 
 # social icons and sharing options
 social:
   - icon:	github
     url:	https://github.com/AprilElizabeth
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+    desc:	Peek under the hood
+  - icon:   keybase
+    url:    https://keybase.io/spinachbaby
+    desc:   Chat me on Keybase
