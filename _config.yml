@@ -23,7 +23,7 @@ paginate:	7
 url: "https://aprilelizabeth.net"
 baseurl: ""
 
-google_analytics: UA-142144768-1
+google_analytics:
 
 # social icons and sharing options
 social:
